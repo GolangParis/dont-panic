@@ -22,6 +22,12 @@ Sous la houpette de notre ministère de l'éducation la première action tactiqu
 
 Naturellement cette mesure est transitoire et j'espère de tout coeur pouvoir bientôt la defer.
 
-Soyons forts, unissons nos interfaces et ne cédons pas à la panic.
+Soyons forts, ne cédons pas à la panic et unissons nos interfaces lors de ces 5 prochaines dates :
+
+* [Lundi 30 sept](https://www.meetup.com/fr-FR/Golang-Paris/events/265238852)
+* [Mardi 1er oct](https://www.meetup.com/fr-FR/Golang-Paris/events/265238894)
+* [Mercredi 2 oct](https://www.meetup.com/fr-FR/Golang-Paris/events/265238906)
+* [Jeudi 3 oct](https://www.meetup.com/fr-FR/Golang-Paris/events/265238923)
+* [Vendredi 4 oct](https://www.meetup.com/fr-FR/Golang-Paris/events/265238936)
 
 Votre président dévoué.
