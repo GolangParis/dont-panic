@@ -1,3 +1,5 @@
+[English version](README_en.md)
+
 ## Message du président des gophers unis
 
 ### Proclamation de l'état d'urgence
