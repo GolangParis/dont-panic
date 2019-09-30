@@ -4,7 +4,7 @@
 
 ### Proclamation de l'état d'urgence
 
-![état d'urgence](https://raw.githubusercontent.com/GolangParis/dont-panic/master/potug_state_of_emergency.jpg)
+![état d'urgence](https://raw.githubusercontent.com/GolangParis/dont-panic/master/images/potug_state_of_emergency.jpg)
 
 Cher gophers, gaufres, gaufrettes, j'ai un message important à vous transmettre.
 

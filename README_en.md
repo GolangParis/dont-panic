@@ -2,7 +2,7 @@
 
 ### Declaration of state emergency
 
-![state emergency](https://raw.githubusercontent.com/GolangParis/dont-panic/master/potug_state_of_emergency.jpg)
+![state emergency](https://raw.githubusercontent.com/GolangParis/dont-panic/master/images/potug_state_of_emergency.jpg)
 
 Dears gopherettes, gophers, i have an important message to deliver to you.
 
